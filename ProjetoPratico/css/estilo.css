@@ -62,4 +62,15 @@ filter: none;
 .section_interna{
     padding-top: 0px;
 }
+.form-login{
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    background: #eee;
+}
+.form-login input{
+    margin-bottom: 10px;
+}
 
