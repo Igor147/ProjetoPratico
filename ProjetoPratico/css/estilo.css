@@ -73,4 +73,13 @@ filter: none;
 .form-login input{
     margin-bottom: 10px;
 }
-
+.conteudo_painel{
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    box-shadow: 5px 5px 5px #888;
+}
+.conteudo_painel_int{
+    padding: 12px;
+    
+}
